@@ -32,3 +32,6 @@
   
 ## Задание 5.3 - демонстрация
 ![5.3_interface](https://github.com/Yu-Leo/demoexam-2021/blob/main/5.3_interface.gif)
+
+## Задание 5.3 со случайным выбором и изменением цвета фигуры при нажатии - демонстрация
+![5.3_interface](https://github.com/Yu-Leo/demoexam-2021/blob/main/5.3-color-interface.gif)
